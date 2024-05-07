@@ -1,0 +1,2 @@
+#This repositiory houses scripts for analysis of lake data as well as ways to prepare data for analysis
+#Scripts include setup and running of GAMs for trend anysis, calculation of Sens slope for each lake, as well as access of metadata and temperature data for Sharma et al. dataset
