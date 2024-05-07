@@ -1,0 +1,9 @@
+﻿ObjectID,LakeName,Lake Ab.,Country of Lake,Latitude,Longitude,Study,Lake Area (m^2),Watershed Area* (m^2),Unclassified ,Open Water,Perenail Ice Snow,"Developed, Open Space","Developed, Low Intensity",Developed. Medium Intensity,"Developed, High Intensity",Barren Land(Rock/Sand/Clay),Deciduous Forest,Evergreen Forest,Mixed Forest,Dwarf Scrub,Shrub/Scrub,Grassland/Herbaceous,Sedge/Herbaceous,Lichens,Moss,Pasture/Hay,Cultivated Crops ,Woody Wetlands,Emergent Herbaceous Wetlands
+1286,Jesup,JES,United States,28.7,-81.23,Sharma,31928367.30,389294633.83,0, ,0,0.2228,0.2288,0.1426,0.0452,0.0009,0,0.0281,0.0018,0,0.004,0.0037,0,0,0,0.0319,0.0019,0.2245,0.0638
+1293,Kensico,KEN,United States,41.08,-73.76,Sharma,5947530.69,27391436.22,0, ,0,0.1798,0.1059,0.0696,0.0254,0.0001,0.5239,0.0117,0.0397,0,0.001,0.0034,0,0,0,0.0126,0,0.0254,0.0014
+79,Wingra,WIN,United States,43.053,-89.425,Pilla,1355744.22,14052732.25,0, ,0,0.2045,0.3676,0.124,0.0644,0.0003,0.0545,0.0091,0.0275,0,0,0.001,0,0,0,0.0127,0,0.0813,0.0448
+75,Monona,MON,United States,43.063,-89.361,Pilla,13642722.20,156865707.00,0, ,0,0.1553,0.3232,0.1923,0.0977,0.0004,0.0301,0.0027,0.035,0,0.0003,0.001,0,0,0,0.0547,0.0284,0.0327,0.0453
+74,Mendota,MEN,United States,43.099,-89.405,Pilla,38155282.61,575238972.00,0, ,0,0.0655,0.0991,0.0638,0.0203,0.0042,0.0259,0.0009,0.0174,0,0.0014,0.001,0,0,0,0.0798,0.5699,0.0108,0.0399
+1150, lake Auburn,LA,United States,44.1458,-70.2486,GloboLakes,9235623.80,39327764.50,0, ,0,0.0424,0.0274,0.0151,0.0026,0.0148,0.2035,0.1083,0.4114,0,0.0056,0.0121,0,0,0,0.0963,0.0009,0.0533,0.0062
+125,Washington,WAS,United States,47.63416,-122.2708,Pilla,85281084.54,1432635405.74,0, ,0,0.1086,0.1874,0.1709,0.0587,0.0028,0.0289,0.2649,0.1263,0,0.0143,0.0039,0,0,0,0.0104,0.0002,0.0174,0.0053
+ ,Whatcom, ,United States,48.73392,-122.3318, ,19981854.48,125730243.74,0, ,0,0.0562,0.0468,0.0124,0.0004,0.0001,0.049,0.5386,0.2324,0,0.0323,0.0103,0,0,0,0.0103,0,0.0095,0.0011
